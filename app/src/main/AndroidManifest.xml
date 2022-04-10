@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.leandro.desacelera_">
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/ic_launcher_logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Desacelera_">
+        <activity
+            android:name=".EsqueciMinhaSenhaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FichaAnamneseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListaProfissionaisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CadastroProfissionalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CadastroActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CadastroUsuarioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ExerciciosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PlayListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LivroActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AjudaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
