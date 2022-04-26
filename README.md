@@ -22,7 +22,7 @@
 * [Java - Back-end](#Java)
 * [Gradle - Sistema de automação de compilação](#Android_Studio)
 * [Photoshop - Software para edição de imagens](#photoshop)
-* [Figma - Software para criação dos layout](#figma)
+* [Figma - Software para criação do layout](#figma)
 * [GenyMotion - Emulador](#Geny)
 
 #### Aplicativo em construção... ![App](https://github.com/leandrosax10/Desacelera_/blob/master/icone%20construcao.png)
